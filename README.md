@@ -5,7 +5,7 @@
 
 ## AnkaPress WordPress Theme
 
-WordPress tema eğitim serisi için yapılmştır.
+WordPress tema geliştirme eğitim serisi için yapılmştır.
 
 ## Dersler ve Konular
 
