@@ -13,7 +13,7 @@ WordPress tema eğitim serisi için yapılmştır.
 | --- | -------------- | ------------------------------------------- |
 | 01  | [dizin-yapisi] | WordPress kök dizin yapısının oluşturulması |
 
-[dizin-yapisi]: https://github.com/vuejs/vue-router
+[dizin-yapisi]: https://github.com/kayadev/ankapress-theme/tree/dizin-yapisi
 
 ## License
 
